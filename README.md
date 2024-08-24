@@ -2,7 +2,7 @@
 
 This project is a demonstration of the four Object-Oriented Programming (OOP) principles using C#. It contains examples of:
 
-1. **Encapsulation** - Encapsulation refers to bundling data and the methods that operate on it, while restricting direct access to certain internal details. This is done using private fields and public properties in the `Vehicle` class.
+1. **Encapsulation** - Encapsulation refers to bundling data and the methods that operate on it into a single unit, while restricting direct access to certain internal details. This is done using private fields and public properties in the `Vehicle` class.
 
 ---
 
