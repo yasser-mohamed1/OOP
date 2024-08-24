@@ -1,0 +1,14 @@
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\bin\Debug\net8.0\OOPPrinciples.exe
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\bin\Debug\net8.0\OOPPrinciples.deps.json
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\bin\Debug\net8.0\OOPPrinciples.runtimeconfig.json
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\bin\Debug\net8.0\OOPPrinciples.dll
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\bin\Debug\net8.0\OOPPrinciples.pdb
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.AssemblyInfoInputs.cache
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.AssemblyInfo.cs
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.dll
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\refint\OOPPrinciples.dll
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.pdb
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\OOPPrinciples.genruntimeconfig.cache
+C:\Users\Ssofian\source\repos\OOPPrinciples\OOPPrinciples\obj\Debug\net8.0\ref\OOPPrinciples.dll
